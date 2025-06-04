@@ -1,8 +1,8 @@
-# Custom Game - Distinction Task
+# 🎮 Custom Game - Distinction Task
 
 A custom game developed using the Raylib library for Object-Oriented Programming coursework.
 
-## Requirements
+## 📋 Requirements
 
 ### System Requirements
 - **Resolution**: 2560 × 1440 (recommended)
@@ -10,10 +10,10 @@ A custom game developed using the Raylib library for Object-Oriented Programming
 - **Platform**: Windows
 
 ### Prerequisites
-- .NET SDK installed
-- Raylib bindings properly configured
+- ✅ .NET SDK installed
+- ✅ Raylib bindings properly configured
 
-## Getting Started
+## 🚀 Getting Started
 
 ### 1. Running the Game
 ```bash
@@ -32,7 +32,7 @@ If Raylib-cs is not listed in the packages, install it:
 dotnet add package Raylib-cs
 ```
 
-## Quick Setup Checklist
+## 🎯 Quick Setup Checklist
 - [ ] .NET SDK installed
 - [ ] Navigate to project directory
 - [ ] Run `dotnet list package` to verify Raylib
@@ -41,4 +41,4 @@ dotnet add package Raylib-cs
 
 ---
 
-**Enjoy your gaming experience!**
+**Enjoy your gaming experience! 🎮✨**
