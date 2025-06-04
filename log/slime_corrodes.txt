@@ -1,0 +1,10 @@
+2/6/2025 12:22:58 AM: Slime 'Slime' (Level 2) corroded Level 1 Leg from ANDREW
+Corrode chance: 100.25% (Base: 100.00%)
+Additional durability reduction: 24 (beyond normal 5)
+Total reduction: 95 -> 66 (-29)
+
+2/6/2025 12:41:18 AM: Slime 'Slime' (Level 2) corroded Level 1 Axe from ANDREW
+Corrode chance: 99.50% (Base: 100.00%)
+Additional durability reduction: 22 (beyond normal 5)
+Total reduction: 90 -> 63 (-27)
+

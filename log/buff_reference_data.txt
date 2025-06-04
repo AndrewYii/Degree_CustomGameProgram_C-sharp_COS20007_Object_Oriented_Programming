@@ -1,0 +1,42 @@
+# BUFF REFERENCE DATA
+# Simple reference for buff effects and durations
+# Format: [BuffType]_[Tier] = [Value],[Duration]
+# Used for creating buffs from potions and skills
+# Duration is measured in TURNS (not seconds)
+
+## STAT BUFFS
+
+# Attack Buffs (attack boost percentage, duration in turns)
+ATTACK_BUFF_1 = 10.0,3
+ATTACK_BUFF_2 = 20.0,4
+ATTACK_BUFF_3 = 35.0,5
+ATTACK_BUFF_4 = 50.0,7
+ATTACK_BUFF_5 = 75.0,10
+
+# Defense Buffs (defense boost percentage, duration in turns)
+DEFENSE_BUFF_1 = 15.0,3
+DEFENSE_BUFF_2 = 25.0,4
+DEFENSE_BUFF_3 = 40.0,5
+DEFENSE_BUFF_4 = 60.0,7
+DEFENSE_BUFF_5 = 85.0,10
+
+# Speed Buffs (speed boost value, duration in turns)
+SPEED_BUFF_1 = 2.0,3
+SPEED_BUFF_2 = 3.0,4
+SPEED_BUFF_3 = 4.0,5
+SPEED_BUFF_4 = 5.0,7
+SPEED_BUFF_5 = 7.0,10
+
+# Critical Chance Buffs (crit chance percentage increase, duration in turns)
+CRIT_BUFF_1 = 5.0,3
+CRIT_BUFF_2 = 10.0,4
+CRIT_BUFF_3 = 15.0,5
+CRIT_BUFF_4 = 20.0,7
+CRIT_BUFF_5 = 30.0,10
+
+## BUFF MULTIPLIERS
+
+# Used by skills or special items for enhancing buffs
+BUFF_VALUE_MULTIPLIER = 1.25
+BUFF_DURATION_MULTIPLIER = 1.5
+SPECIAL_BUFF_MULTIPLIER = 1.4

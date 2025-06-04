@@ -1,0 +1,8 @@
+Due to some polymorphisms are much easier and clearer to be shown by using UI so I have included some picture to prove the polymorphism too.
+
+Contents Included:
+Different Animation
+Different Texture
+Different Learning Skill
+Different Stats
+Different get weapon bonus

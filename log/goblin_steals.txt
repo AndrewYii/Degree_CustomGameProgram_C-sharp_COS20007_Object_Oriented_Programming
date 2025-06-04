@@ -1,0 +1,96 @@
+2/6/2025 12:16:09 AM: Goblin 'Goblin' (Level 2) stole 22 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 22
+
+2/6/2025 12:16:16 AM: Goblin 'Goblin' (Level 2) stole 16 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 16
+
+2/6/2025 12:16:38 AM: Goblin 'Goblin' (Level 2) stole 9 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 9
+
+2/6/2025 12:18:16 AM: Goblin 'Goblin' (Level 2) stole 7 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 7
+
+2/6/2025 12:18:19 AM: Goblin 'Goblin' (Level 2) stole 7 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 7
+
+2/6/2025 12:18:35 AM: Goblin 'Goblin' (Level 2) stole 8 money from ANDREW
+Steal chance: 102.00% (Base: 100.00%)
+Money stolen: 8
+
+2/6/2025 12:35:05 AM: Goblin 'Savage Goblin' (Level 1) stole 22 money from E
+Steal chance: 103.00% (Base: 100.00%)
+Money stolen: 22
+
+2/6/2025 12:35:08 AM: Goblin 'Savage Goblin' (Level 1) stole 7 money from E
+Steal chance: 103.00% (Base: 100.00%)
+Money stolen: 7
+
+2/6/2025 12:35:37 AM: Goblin 'Savage Goblin' (Level 1) stole 14 money from E
+Steal chance: 103.00% (Base: 100.00%)
+Money stolen: 14
+
+2/6/2025 12:39:21 AM: Goblin 'Goblin' (Level 2) stole 24 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 24
+
+2/6/2025 12:40:01 AM: Goblin 'Goblin' (Level 2) stole 19 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 19
+
+2/6/2025 12:40:03 AM: Goblin 'Goblin' (Level 2) stole 13 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 13
+
+2/6/2025 12:40:05 AM: Goblin 'Goblin' (Level 2) stole 10 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 10
+
+2/6/2025 12:40:07 AM: Goblin 'Goblin' (Level 2) stole 4 money from ANDREW
+Steal chance: 108.00% (Base: 100.00%)
+Money stolen: 4
+
+2/6/2025 2:09:54 AM: Goblin 'Shadow Goblin' (Level 3) stole 32 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 32
+
+2/6/2025 2:09:57 AM: Goblin 'Shadow Goblin' (Level 3) stole 18 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 18
+
+2/6/2025 2:10:00 AM: Goblin 'Shadow Goblin' (Level 3) stole 23 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 23
+
+2/6/2025 2:10:03 AM: Goblin 'Shadow Goblin' (Level 3) stole 10 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 10
+
+2/6/2025 2:10:06 AM: Goblin 'Shadow Goblin' (Level 3) stole 11 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 11
+
+2/6/2025 2:10:10 AM: Goblin 'Shadow Goblin' (Level 3) stole 8 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 8
+
+2/6/2025 2:10:13 AM: Goblin 'Shadow Goblin' (Level 3) stole 11 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 11
+
+2/6/2025 2:10:16 AM: Goblin 'Shadow Goblin' (Level 3) stole 4 money from E
+Steal chance: 113.00% (Base: 100.00%)
+Money stolen: 4
+
+2/6/2025 2:14:01 AM: Goblin 'Goblin' (Level 1) stole 52 money from ANDREW
+Steal chance: 103.00% (Base: 100.00%)
+Money stolen: 52
+
+2/6/2025 2:14:04 AM: Goblin 'Goblin' (Level 1) stole 40 money from ANDREW
+Steal chance: 103.00% (Base: 100.00%)
+Money stolen: 40
+

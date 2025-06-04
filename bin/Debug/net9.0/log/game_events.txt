@@ -1,0 +1,7 @@
+2025-05-31 21:34:09 - State change: From MainMenu to CharacterSelection
+2025-05-31 21:34:09 - Navigation: Main Menu -> Character Selection
+2025-05-31 21:34:09 - Character Selection: Selected: Knight
+2025-05-31 21:34:11 - Game State: Game fully reset
+2025-05-31 21:34:11 - State change: From MainMenu to MainMenu
+2025-05-31 21:34:11 - Navigation: Settings -> Main Menu (Game Reset)
+2025-05-31 21:34:12 - Exit: Main Menu Exit (Exit button)
