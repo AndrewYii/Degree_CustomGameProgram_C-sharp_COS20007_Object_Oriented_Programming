@@ -5,3 +5,16 @@
 2025-05-31 21:34:11 - State change: From MainMenu to MainMenu
 2025-05-31 21:34:11 - Navigation: Settings -> Main Menu (Game Reset)
 2025-05-31 21:34:12 - Exit: Main Menu Exit (Exit button)
+2025-06-05 12:50:53 - State change: From MainMenu to CharacterSelection
+2025-06-05 12:50:53 - Navigation: Main Menu -> Character Selection
+2025-06-05 12:50:54 - Character Selection: Selected: Archer
+2025-06-05 12:50:55 - Character Selection: Selected: Axeman
+2025-06-05 12:51:02 - Game State: Resources cleaned up
+2025-06-05 12:51:12 - Game State: Resources cleaned up
+2025-06-05 12:59:03 - Game State: Resources cleaned up
+2025-06-05 13:00:15 - Game State: Resources cleaned up
+2025-06-05 13:00:24 - Game State: Resources cleaned up
+2025-06-05 13:05:24 - Game State: Resources cleaned up
+2025-06-05 13:06:06 - State change: From MainMenu to CharacterSelection
+2025-06-05 13:06:06 - Navigation: Main Menu -> Character Selection
+2025-06-05 13:46:07 - Game State: Resources cleaned up
