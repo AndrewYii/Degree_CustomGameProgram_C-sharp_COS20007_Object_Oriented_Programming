@@ -1848,6 +1848,7 @@ namespace DistinctionTask{
                 }
                 try
                 {
+                    Raylib.DrawText("© COS20007 Object-Oriented Programming Unit", 20, WINDOW_HEIGHT - 60, 20, Raylib_cs.Color.Gray);
                     Raylib.DrawText("Created by: Andrew Teck Foon YII (104386568)", 20, WINDOW_HEIGHT - 30, 20, Raylib_cs.Color.Gray);
                 }
                 catch (Exception textEx)

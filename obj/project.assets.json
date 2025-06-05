@@ -6852,11 +6852,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Andrew\\Desktop\\Degree_Year1_Sem2\\Object-Oriented-Programming\\NeedToHandInOne\\CustomProgram(DistinctionTask)\\DistinctionTask.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew\\Desktop\\Degree_Year1_Sem2\\Object-Oriented-Programming\\NeedToHandInOne\\HDTask\\CustomProgram(Final)\\DistinctionTask.csproj",
       "projectName": "DistinctionTask",
-      "projectPath": "c:\\Users\\Andrew\\Desktop\\Degree_Year1_Sem2\\Object-Oriented-Programming\\NeedToHandInOne\\CustomProgram(DistinctionTask)\\DistinctionTask.csproj",
+      "projectPath": "C:\\Users\\Andrew\\Desktop\\Degree_Year1_Sem2\\Object-Oriented-Programming\\NeedToHandInOne\\HDTask\\CustomProgram(Final)\\DistinctionTask.csproj",
       "packagesPath": "C:\\Users\\Andrew\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Andrew\\Desktop\\Degree_Year1_Sem2\\Object-Oriented-Programming\\NeedToHandInOne\\CustomProgram(DistinctionTask)\\obj\\",
+      "outputPath": "C:\\Users\\Andrew\\Desktop\\Degree_Year1_Sem2\\Object-Oriented-Programming\\NeedToHandInOne\\HDTask\\CustomProgram(Final)\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
