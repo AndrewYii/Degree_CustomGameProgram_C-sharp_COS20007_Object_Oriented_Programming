@@ -39,6 +39,11 @@ dotnet add package Raylib-cs
 - [ ] Install Raylib if missing: `dotnet add package Raylib-cs`
 - [ ] Run the game: `dotnet run`
 
+## 📺 Demo Video
+[Game Demonstration](https://www.youtube.com/watch?v=NEXnctltxkU&t=1s)
+*Complete gameplay walkthrough showcasing core mechanics, features, and OOP implementation*
+
+
 ---
 
 **Enjoy your gaming experience! 🎮✨**
